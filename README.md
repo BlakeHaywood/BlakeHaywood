@@ -8,7 +8,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 ### 👨‍💻 Information Technology Projects:
 
-* [IT Helpdesk Home Lab Series](#)
+* [IT Helpdesk Home Lab Series](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/README.md)
 * [Microsoft Office 365 Admin Center Home Lab](#)
 
 ### 📦 Tools and Applications
