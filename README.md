@@ -28,9 +28,6 @@ In this Github Repository, I have presented a range of projects that highlight m
       <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
    </a>
 </div>
-**Advanced Administration**
-
-![Microsoft Office 365 Admin Center](https://img.shields.io/badge/MICROSOFT_OFFICE_365_ADMIN_CENTER-0078D4?style=for-the-badge)
 
 ### 🌐 Lets Connect:
 ---
