@@ -22,6 +22,12 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 ![Spiceworks](https://img.shields.io/badge/SPICEWORKS-0052CC?style=for-the-badge)
 
+## Certifications
+<div>
+   <a href="https://www.credly.com/badges/b8e2c536-e354-491d-880d-a96a4509166c/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   </a>
+</div>
 **Advanced Administration**
 
 ![Microsoft Office 365 Admin Center](https://img.shields.io/badge/MICROSOFT_OFFICE_365_ADMIN_CENTER-0078D4?style=for-the-badge)
