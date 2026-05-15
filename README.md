@@ -13,7 +13,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 ### 🛡️ Cyber Security Projects:
 
-* **[Wazuh SIEM: Active Directory Attack & Detection Lab](https://github.com/BlakeHaywood/your-repo-link)**
+* **[Wazuh SIEM: Active Directory Attack & Detection Lab](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Active-Directory-Brute-Force-SIEM.md)**
   * Engineered a functional security telemetry pipeline utilizing **Wazuh SIEM** to monitor a **Windows Server 2022** environment.
   * Simulated adversary tactics using **Kali Linux** (`smbclient`) to perform brute-force attacks, successfully triggering high-severity correlation rules (Rule 60204).
   * Demonstrated proficiency in endpoint hardening, log analysis (Event ID 4625), and incident remediation strategies.
